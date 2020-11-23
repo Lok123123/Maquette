@@ -369,13 +369,11 @@ a {
 @media (min-width: 925px) {
   .DIVISIONHEBERGEMENT {
     grid-template-columns: repeat(3, 1fr);
-    background-color:white
   }
 }
 @media (max-width: 925px) and (min-width: 650px) {
   .DIVISIONHEBERGEMENT {
     grid-template-columns: 1fr 1fr;
-    background-color:white
   }
 }
 @media (max-width: 650px) {
